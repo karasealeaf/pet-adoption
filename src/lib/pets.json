@@ -6,7 +6,8 @@
     "age": 3,
     "color": "Brown and White",
     "fun_fact": "Can sing along to opera.",
-    "image": "https://images.unsplash.com/photo-1562256500-5d49a9903824?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://images.unsplash.com/photo-1562256500-5d49a9903824?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "whisker-cat"
   },
   {
     "name": "Barkley",
@@ -15,7 +16,8 @@
     "age": 5,
     "color": "Golden",
     "fun_fact": "Thinks he's a lap dog.",
-    "image": "https://images.unsplash.com/photo-1581285217236-a2355291f9c9?q=80&w=2815&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://images.unsplash.com/photo-1581285217236-a2355291f9c9?q=80&w=2815&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "barkley-dog"
   },
   {
     "name": "Ziggy",
@@ -24,7 +26,8 @@
     "age": 2,
     "color": "Brown",
     "fun_fact": "Obsessed with reality TV shows.",
-    "image": "https://images.unsplash.com/photo-1612049094164-9f016e7a449d?q=80&w=2516&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://images.unsplash.com/photo-1612049094164-9f016e7a449d?q=80&w=2516&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "ziggy-lizzard"
   },
   {
     "name": "Mr. Fluffles",
@@ -33,7 +36,8 @@
     "age": 1,
     "color": "White",
     "fun_fact": "Has a personal stylist.",
-    "image": ""
+    "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "fluffles-rabbit"
   },
   {
     "name": "Puff",
@@ -42,7 +46,7 @@
     "age": 150,
     "color": "Green",
     "fun_fact": "Vegetarian and loves cooking shows.",
-    "image": ""
+    "slug": "puff-dragon"
   },
   {
     "name": "Sparky",
@@ -50,7 +54,8 @@
     "breed": "Assassin Model",
     "age": 20,
     "color": "Silver",
-    "fun_fact": "Retired and enjoys knitting."
+    "fun_fact": "Retired and enjoys knitting.",
+    "slug": "sparky-robot"
   },
   {
     "name": "Glimmer",
@@ -59,7 +64,7 @@
     "age": 7,
     "color": "Rainbow",
     "fun_fact": "Has a PhD in Physics.",
-    "image": ""
+    "slug": "glimmer-unicorn"
   },
   {
     "name": "Fang",
@@ -68,7 +73,8 @@
     "age": 4,
     "color": "Green",
     "fun_fact": "Loves to cuddle.",
-    "image": "https://images.unsplash.com/photo-1555455955-c2e1feb6f81c?q=80&w=2785&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://images.unsplash.com/photo-1555455955-c2e1feb6f81c?q=80&w=2785&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "fang-snake"
   },
   {
     "name": "Bubbles",
@@ -76,7 +82,9 @@
     "breed": "Goldfish",
     "age": 1,
     "color": "Gold",
-    "fun_fact": "Can solve puzzles."
+    "fun_fact": "Can solve puzzles.",
+    "image": "https://images.unsplash.com/photo-1522069169874-c58ec4b76be5?q=80&w=1312&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "bubbles-fish"
   },
   {
     "name": "Hedgy",
@@ -85,7 +93,8 @@
     "age": 3,
     "color": "Brown",
     "fun_fact": "Aspiring Instagram influencer.",
-    "image": ""
+    "image": "https://images.unsplash.com/photo-1598255352496-e67192a8a5ac?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "hedgy-pygmy"
   },
   {
     "name": "Nibbles",
@@ -94,7 +103,8 @@
     "age": 0.5,
     "color": "Golden",
     "fun_fact": "Training for a hamster marathon.",
-    "image": "https://images.unsplash.com/photo-1675069479383-93b0917e2e00?q=80&w=2617&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "image": "https://images.unsplash.com/photo-1675069479383-93b0917e2e00?q=80&w=2617&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "nibbles-hamster"
   },
   {
     "name": "Echo",
@@ -103,7 +113,8 @@
     "age": 10,
     "color": "Blue and Yellow",
     "fun_fact": "Can imitate any ringtone.",
-    "image": ""
+    "image": "https://images.unsplash.com/photo-1594546927369-f4f587649acc?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "echo-parrot"
   },
   {
     "name": "Sneaky",
@@ -111,7 +122,9 @@
     "breed": "Bengal",
     "age": 4,
     "color": "Spotted",
-    "fun_fact": "Expert in hide and seek."
+    "fun_fact": "Expert in hide and seek.",
+    "image": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?q=80&w=1430&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "sneaky-cat"
   },
   {
     "name": "Boomer",
@@ -120,7 +133,8 @@
     "age": 6,
     "color": "Red",
     "fun_fact": "Enjoys boxing workouts.",
-    "image": ""
+    "image": "https://images.unsplash.com/photo-1554703325-b7811208ff71?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "boomer-kangaroo"
   },
   {
     "name": "Chomp",
@@ -129,7 +143,8 @@
     "age": 8,
     "color": "Green",
     "fun_fact": "Loves bubble baths.",
-    "image": ""
+    "image": "https://images.unsplash.com/photo-1570308514141-48b0e0852591?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "chomp-alligator"
   },
   {
     "name": "Twilight",
@@ -138,7 +153,8 @@
     "age": 2,
     "color": "Black",
     "fun_fact": "Aspires to be a detective.",
-    "image": ""
+    "image": "https://images.unsplash.com/photo-1644231555058-8038a9a95a0b?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "twilight-bat"
   },
   {
     "name": "Dusty",
@@ -147,7 +163,8 @@
     "age": 7,
     "color": "Brown",
     "fun_fact": "Part-time DJ.",
-    "image": ""
+    "image": "https://images.unsplash.com/photo-1603989888581-3115416784fa?q=80&w=1275&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "dusty-horse"
   },
   {
     "name": "Pepper",
@@ -156,7 +173,8 @@
     "age": 4,
     "color": "White with Black Spots",
     "fun_fact": "Has a coffee addiction.",
-    "image": ""
+    "image": "https://images.unsplash.com/photo-1625481725655-bfe65d0b2f8c?q=80&w=1288&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "pepper-dog"
   },
   {
     "name": "Spike",
@@ -165,7 +183,8 @@
     "age": 5,
     "color": "Brown",
     "fun_fact": "Enjoys acupuncture.",
-    "image": ""
+    "image": "https://plus.unsplash.com/premium_photo-1664302959064-6c3e5fb92fc6?q=80&w=1290&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "spike-porcupine"
   },
   {
     "name": "Gizmo",
@@ -174,6 +193,16 @@
     "age": 3,
     "color": "Brown",
     "fun_fact": "Never feed after midnight.",
-    "image": ""
+    "slug": "gizmo-gremlin"
+  },
+  {
+    "name": "Blizzard",
+    "species": "Dog",
+    "breed": "Husky",
+    "age": 3,
+    "color": "White and Grey",
+    "fun_fact": "Thinks he's a professional sled racer.",
+    "image": "https://images.unsplash.com/photo-1617895153857-82fe79adfcd4?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "slug": "blizzard-dog"
   }
 ]
